@@ -6,8 +6,6 @@
 
 <div align="center">
 
-<img width="100%" alt="Salma Ihssan — AI and Software Engineering" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,45:4338CA,100:0891B2&amp;height=220&amp;section=header&amp;text=SALMA%20IHSSAN&amp;fontSize=47&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;animation=fadeIn&amp;desc=AI%20ENGINEERING%20%C3%97%20SOFTWARE%20ENGINEERING&amp;descAlignY=59&amp;descSize=15" />
-
 <img alt="Animated introduction" src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=19&amp;duration=3300&amp;pause=1100&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=800&amp;height=45&amp;lines=Building+intelligent+systems+that+solve+real+problems;Exploring+Agentic+AI+%26+Multi-Agent+Workflows;From+Software+Engineering+to+Applied+AI" />
 
 <p>
@@ -16,7 +14,7 @@
   <a href="mailto:salma.ihssan.pro@gmail.com"><img alt="Email" src="https://img.shields.io/badge/EMAIL-Say%20Hello-7C3AED?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
 </p>
 
-<strong>Engineering student · École Centrale de Lyon × ENSAM Meknès</strong><br />
+<strong>Software Engineering student · École Centrale de Lyon × ENSAM Meknès</strong><br />
 <em>Lyon, France · Master 2 in Artificial Intelligence</em>
 
 <p>
@@ -113,17 +111,6 @@ I'm an engineering student in a **double-degree program between ENSAM Meknès an
 
 ---
 
-## <code>04</code> &nbsp; Education
-
-| Degree | Institution | Period |
-|:--|:--|:--|
-| **Master 2 — Artificial Intelligence** | École Centrale de Lyon, France | 2026–2027 |
-| **Engineering degree — Software Engineering** | Arts et Métiers (ENSAM), Meknès, Morocco | 2022–2027 |
-
-*Double-degree program bridging software engineering and artificial intelligence.*
-
----
-
 ## <code>05</code> &nbsp; Certifications
 
 - [**Agents Fundamentals** — Hugging Face](https://huggingface.co/datasets/agents-course/certificates/blob/main/certificates/salmaih/2026-10-17.png) · October 2026
@@ -131,21 +118,9 @@ I'm an engineering student in a **double-degree program between ENSAM Meknès an
 - [**Introduction to Model Context Protocol** — Claude Academy](https://academy.claude.com/verify/88cbe4e292344c2d66c1b2365d3fd516)
 - [**Linux Essentials** — Linux Professional Institute](https://www.credly.com/badges/5400a7d5-89d5-49b1-a71e-8aaf54b0e48b/public_url) · May 2026
 
----
-
-## <code>06</code> &nbsp; Community
-
-- Member of **Gadz'IT**, the computer science club, and a social club.
-- Participant in **Hackathon Aidant 2026**, organized by **Sopra Steria** and **Crédit Agricole**.
-- Languages: **Arabic** (native) · **French** (B2) · **English** (B2).
-
----
-
 <div align="center">
 
-### Let's build something meaningful.
-
-Interested in <strong>agentic AI, intelligent automation, or software engineering</strong>? I'd love to connect.
+### I'd love to connect
 
 <a href="https://ihssan-salma.github.io/portfolio/">Portfolio</a> &nbsp;·&nbsp; <a href="https://linkedin.com/in/ihssan-salma">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:salma.ihssan.pro@gmail.com">Email</a>
 
