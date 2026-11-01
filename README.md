@@ -119,11 +119,3 @@ I'm an engineering student in a **double-degree program between ENSAM Meknès an
 - [**Linux Essentials** — Linux Professional Institute](https://www.credly.com/badges/5400a7d5-89d5-49b1-a71e-8aaf54b0e48b/public_url) · May 2026
 
 <div align="center">
-
-### I'd love to connect
-
-<a href="https://ihssan-salma.github.io/portfolio/">Portfolio</a> &nbsp;·&nbsp; <a href="https://linkedin.com/in/ihssan-salma">LinkedIn</a> &nbsp;·&nbsp; <a href="mailto:salma.ihssan.pro@gmail.com">Email</a>
-
-<img width="100%" alt="Gradient footer" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0891B2,55:4338CA,100:0F172A&amp;height=115&amp;section=footer" />
-
-</div>
