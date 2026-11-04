@@ -6,8 +6,6 @@
 
 <div align="center">
 
-<img alt="Animated introduction" src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=19&amp;duration=3300&amp;pause=1100&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=800&amp;height=45&amp;lines=Building+intelligent+systems+that+solve+real+problems;Exploring+Agentic+AI+%26+Multi-Agent+Workflows;From+Software+Engineering+to+Applied+AI" />
-
 <p>
   <a href="https://ihssan-salma.github.io/portfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-Explore-0891B2?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" /></a>
   <a href="https://linkedin.com/in/ihssan-salma"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-Connect-4338CA?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
