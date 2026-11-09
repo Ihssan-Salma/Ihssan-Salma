@@ -63,41 +63,67 @@ Analyse des données de trafic 2022–2024, construction d’un modèle en étoi
 ### IA agentique & données
 
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=B026FF)
-![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logoColor=FFFFFF)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=langgraph&logoColor=B026FF)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=B026FF)
-![MCP](https://img.shields.io/badge/MCP-B026FF?style=for-the-badge&logoColor=FFFFFF)
-![RAG](https://img.shields.io/badge/RAG-B026FF?style=for-the-badge&logoColor=FFFFFF)
+![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=B026FF)
+![LangSmith](assets/tech/langsmith.svg)
+![ChromaDB](assets/tech/chroma.svg)
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=B026FF)
+![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=B026FF)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=B026FF)
+![Power BI](assets/tech/powerbi.svg)
 
-LangSmith · ChromaDB · Pandas · NumPy · scikit-learn · Power BI · DAX
+![RAG](https://img.shields.io/badge/RAG-B026FF?style=for-the-badge)
+![DAX](https://img.shields.io/badge/DAX-B026FF?style=for-the-badge)
 
 ### Machine learning & vision
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=B026FF)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=B026FF)
-![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=FFFFFF)
+![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=B026FF)
+![Keras](https://img.shields.io/badge/Keras-000000?style=for-the-badge&logo=keras&logoColor=B026FF)
 
-Keras · CNN · Reconnaissance des émotions faciales
+![CNN](https://img.shields.io/badge/CNN-B026FF?style=for-the-badge)
+![Reconnaissance des émotions faciales](https://img.shields.io/badge/Reconnaissance%20des%20%C3%A9motions%20faciales-B026FF?style=for-the-badge)
 
 ### Développement logiciel
 
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logoColor=FFFFFF)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=B026FF)
+![Java](assets/tech/java.svg)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-000000?style=for-the-badge&logo=springboot&logoColor=B026FF)
 ![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=B026FF)
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=B026FF)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=FFFFFF)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=B026FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=B026FF)
+![Vite](https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=B026FF)
+![C++](https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=cplusplus&logoColor=B026FF)
+![Hibernate](https://img.shields.io/badge/Hibernate-000000?style=for-the-badge&logo=hibernate&logoColor=B026FF)
+![Pydantic](https://img.shields.io/badge/Pydantic-000000?style=for-the-badge&logo=pydantic&logoColor=B026FF)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-000000?style=for-the-badge&logo=sqlalchemy&logoColor=B026FF)
 
-JavaScript · Vite · C++ · JPA/Hibernate · Pydantic · SQLAlchemy
+![JPA](https://img.shields.io/badge/JPA-B026FF?style=for-the-badge)
 
 ### Bases de données & outils
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=B026FF)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=B026FF)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=FFFFFF)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=B026FF)
+![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=B026FF)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=B026FF)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-000000?style=for-the-badge&logo=docker&logoColor=B026FF)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=B026FF)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FFFFFF)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=B026FF)
+![Pytest](https://img.shields.io/badge/Pytest-000000?style=for-the-badge&logo=pytest&logoColor=B026FF)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-000000?style=for-the-badge&logo=githubactions&logoColor=B026FF)
+![Prometheus](https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&logoColor=B026FF)
+![Grafana](https://img.shields.io/badge/Grafana-000000?style=for-the-badge&logo=grafana&logoColor=B026FF)
+![OAuth 2.0](assets/tech/oauth.svg)
+![Wazuh](assets/tech/wazuh.svg)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=B026FF)
 
-MySQL · Redis · Alembic · Docker Compose · Pytest · GitHub Actions  
-Prometheus · Grafana · OAuth 2.0 · Wazuh · Kubernetes *(notions)*
+![Alembic](https://img.shields.io/badge/Alembic-B026FF?style=for-the-badge)
+
+*Kubernetes : notions. Les badges RAG, DAX, CNN, JPA et Alembic sont des libellés sans logo de marque ; Docker Compose utilise le logo Docker.*
+
 
 ---
 
