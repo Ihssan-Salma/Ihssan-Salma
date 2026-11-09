@@ -20,15 +20,7 @@
 
 Je suis Salma, élève-ingénieure en dernière année à l’École Centrale de Lyon, en double cursus avec l’ENSAM Meknès. Je prépare également un Master 2 en Intelligence Artificielle.
 
-Je m’intéresse à l’**IA agentique**, aux **systèmes multi-agents** et à leur utilisation pour automatiser des tâches concrètes. J’aime relier les modèles aux outils et aux données, concevoir les étapes d’un workflow et comprendre comment rendre ses résultats fiables.
-
-Chez **Attijariwafa bank**, j’ai développé un système d’analyse des réclamations clients avec Llama 3, LangGraph, RAG et MCP, en intégrant le masquage des données personnelles.
-
-Je développe aussi **ReSlot AI**, qui propose les créneaux annulés aux clients en attente, et **SOC Sentinel AI**, un assistant d’investigation cyber en cours de réalisation.
-
 ## Parcours
-
-### Formation
 
 | Période | Établissement | Formation |
 | :--- | :--- | :--- |
@@ -47,16 +39,6 @@ Analyse des réclamations clients : extraction des informations, évaluation de 
 *Stagiaire Data Analyst*
 
 Analyse des données de trafic 2022–2024, construction d’un modèle en étoile, création de mesures DAX et de tableaux de bord Power BI pour mettre en évidence les tendances de congestion.
-
-### Apprentissage & engagements
-
-- **Linux Essentials** — LPI.
-- **Agents Fundamentals** — Hugging Face.
-- **Formations DataCamp** — Designing Agentic Systems with LangChain ; Multi-Agent Systems with LangGraph.
-- **Introduction to Model Context Protocol** — Claude Academy.
-- Participation aux hackathons **Aidant 2026** et **Ramadan IA 2026**.
-- Contribution au projet **Groupama / Centrale Lyon** sur les besoins agricoles à l’horizon 2040.
-- Engagement au sein de **Gadz’IT** et du club social de l’ENSAM.
 
 ## Technologies
 
